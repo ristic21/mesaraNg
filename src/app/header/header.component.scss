@@ -1,0 +1,157 @@
+.box-height {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.posColor {
+    position: absolute;
+    color: #FFFFFF;
+    top: 62%;
+    cursor: pointer;
+}
+
+header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 47.52%;
+    height: 93px;
+    background: #B50014;
+    width: 1920px;
+}
+
+.logo {
+    position: absolute;
+    left: 15.62%;
+    right: 75.15%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 100%;
+    height: 177.2px;
+    width: 177.2px;
+    background: #B50014;
+    z-index: 99;
+}
+
+.pdfLg {
+    position: absolute;
+
+    left: 1527px;
+    top: 50px;
+    width: 24px;
+    height: 28px;
+    background: #FFFFFF;
+}
+
+
+
+.downLg {
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1557px;
+    color: white;
+}
+
+@media only screen and (max-width: 414px) {
+    .box-height {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .posColor {
+        position: absolute;
+        color: #FFFFFF;
+        top: 35.29%;
+        cursor: pointer;
+    }
+
+    .dissapear {
+        display: none;
+    }
+
+    header {
+        position: absolute;
+
+        bottom: 34.56%;
+        height: 94px;
+        width: 414px;
+        border-radius: 0px;
+
+        background: #B50014;
+    }
+
+    .logo {
+        position: absolute;
+        left: 0.48%;
+        right: 76.33%;
+        bottom: 15.44%;
+        height: 116px;
+        width: 116px;
+        border-radius: 100%;
+        background: #B50014;
+        z-index: 99;
+    }
+
+
+    .linija1 {
+        position: absolute;
+        height: 3px;
+        width: 28px;
+        left: 355px;
+        top: 41px;
+        border-radius: 20px;
+        background: #FFFFFF;
+    }
+
+    .linija2 {
+        position: absolute;
+        height: 4px;
+        width: 28px;
+        left: 355px;
+        top: 52px;
+        border-radius: 20px;
+        background: #FFFFFF;
+    }
+
+    .linija3 {
+        position: absolute;
+        height: 3px;
+        width: 28px;
+        left: 355px;
+        top: 64px;
+        border-radius: 20px;
+        background: #FFFFFF;
+
+
+    }
+
+    .phoneDown {
+        position: absolute;
+        height: 16px;
+        width: 65px;
+        left: 267px;
+        top: 48px;
+        border-radius: nullpx;
+    }
+
+    .phonePdf {
+        height: 28px;
+        width: 24px;
+        left: 240px;
+        top: 43px;
+        background: #B50014;
+    }
+}
+
+@media only screen and (min-width: 415px) {
+    .hamburger {
+        display: none;
+    }
+
+
+}

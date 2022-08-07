@@ -1,0 +1,109 @@
+@media only screen and (min-width:415px) {
+    img {
+        position: absolute;
+        width: 1920px;
+        height: 540px;
+        left: -1px;
+        top: 3766px;
+        background-color: black;
+    }
+
+    .imgSm {
+        display: none;
+    }
+
+    h2 {
+        position: absolute;
+        width: 218px;
+        height: 26px;
+        left: 851px;
+        top: 3844px;
+
+        /* H2 centered */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 26px;
+        /* identical to box height, or 81% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    button {
+        box-sizing: border-box;
+        position: absolute;
+        background: #FFFFFF;
+        border: 1px solid #FF0000;
+        left: 851px;
+        top: 3944px;
+        height: 47px;
+        width: 204px;
+        border-radius: 40px;
+        color: #252525;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        /* identical to box height, or 138% */
+
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:414px) {
+    .imgSm {
+        position: absolute;
+        width: 414px;
+        height: 520px;
+        left: 2px;
+        top: 4437px;
+        background-color: black;
+        object-fit: none;
+    }
+
+    .imgLg {
+        display: none;
+    }
+
+    h2 {
+        position: absolute;
+        width: 218px;
+        height: 26px;
+        left: 100px;
+        top: 4566px;
+
+        /* H2 centered */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 26px;
+        /* identical to box height, or 81% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    button {
+        box-sizing: border-box;
+
+        position: absolute;
+        height: 47px;
+        width: 204px;
+        left: 100px;
+        top: 4666px;
+        border-radius: 40px;
+
+
+        background: #FFFFFF;
+        border: 1px solid #FF0000;
+        border-radius: 40px;
+    }
+}

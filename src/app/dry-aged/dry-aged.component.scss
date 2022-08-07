@@ -1,0 +1,214 @@
+.dry-aged-container {
+    position: absolute;
+    width: 1938px;
+    height: 679px;
+    left: -18px;
+    top: 802px;
+    background: #181818;
+}
+
+h2 {
+    position: absolute;
+    width: 128px;
+    height: 42px;
+    left: 412px;
+    top: 863px;
+
+    /* H2 */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    /* identical to box height, or 131% */
+
+
+    color: #FFFFFF;
+}
+
+p {
+    position: absolute;
+    width: 500px;
+    height: 26px;
+    left: 412px;
+    top: 955px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+
+
+.meso1 {
+    width: 417px;
+    left: 1040px;
+    top: 843px;
+    position: absolute;
+    border-radius: 0px;
+
+}
+
+.meso2 {
+    position: absolute;
+    width: 127px;
+    height: 147px;
+    left: 1039px;
+    top: 1208px;
+}
+
+.meso3 {
+    position: absolute;
+    width: 127px;
+    height: 147px;
+    left: 1179px;
+    top: 1208px;
+}
+
+.meso4 {
+    position: absolute;
+    width: 127px;
+    height: 147px;
+    left: 1329px;
+    top: 1208px;
+}
+
+@media only screen and (max-width:414px) {
+
+
+    .dry-aged-container,
+    .meso1,
+    .meso2,
+    .meso3,
+    .meso4 {
+        display: none;
+    }
+
+    h2 {
+        position: absolute;
+        width: 128px;
+        height: 42px;
+        left: 139px;
+        top: 984px;
+    }
+
+    p {
+        position: absolute;
+        width: 347px;
+        height: 219px;
+        left: 35px;
+        top: 1088px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+    }
+
+    .podnaslov {
+        position: absolute;
+        width: 198px;
+        height: 26px;
+        left: 104px;
+        top: 1029px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 26px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .btn1sm {
+        position: absolute;
+        top: 1400px;
+        left: 34px;
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+        height: 49px;
+        width: 152px;
+        color: #FFFFFF;
+    }
+
+    .btn2sm {
+
+        box-sizing: border-box;
+
+        position: absolute;
+        top: 1400px;
+        left: 214px;
+
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+        height: 49px;
+        width: 152px;
+        color: #FFFFFF;
+
+    }
+}
+
+
+
+
+@media only screen and (min-width:415px) {
+    .podnaslov {
+        display: none;
+    }
+
+    .btn1 {
+        cursor: pointer;
+        height: 47px;
+        width: 174px;
+        border-radius: 40px;
+
+        box-sizing: border-box;
+        color: white;
+        position: absolute;
+        left: 412px;
+        top: 1255px;
+
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+    }
+
+    .btn2 {
+        cursor: pointer;
+        height: 47px;
+        width: 174px;
+        border-radius: 40px;
+
+        box-sizing: border-box;
+        color: white;
+        position: absolute;
+        left: 672px;
+        top: 1255px;
+
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+    }
+}

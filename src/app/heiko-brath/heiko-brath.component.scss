@@ -1,0 +1,165 @@
+.image1 {
+    position: absolute;
+    width: 1938px;
+    height: 679px;
+    left: -18px;
+    top: 123px;
+}
+
+.brath-container {
+
+    position: absolute;
+    width: 629px;
+    height: 348px;
+    left: 0px;
+    top: 287px;
+
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.brath-bold {
+
+    position: absolute;
+    width: 242px;
+    height: 90px;
+    left: 100px;
+    top: 294px;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 45px;
+
+    color: #FFFFFF;
+}
+
+.brath-content {
+    /* Deutsches Ipsum Dolor deserunt dissentias Grimms Märchen et. Tollit argumentum ius an. Pfannkuchen lobortis elaboraret per ne, nam Aperol Spritz probatus pertinax. */
+
+
+    position: absolute;
+    width: 275px;
+    height: 134px;
+    left: 101px;
+    top: 479px;
+
+    /* body */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 414px) {
+
+    .image1,
+    .brath-content,
+    .brath-bold,
+    .brath-container {
+        display: none;
+    }
+
+    .image2 {
+        position: absolute;
+        width: 414px;
+        height: 276px;
+        left: 0px;
+        top: 118px;
+    }
+
+    .brath-content-sm {
+        position: absolute;
+        width: 378px;
+        height: 134px;
+        left: 19px;
+        top: 498px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .brath-bold-sm {
+        position: absolute;
+        width: 242px;
+        height: 90px;
+        left: 85px;
+        top: 393px;
+
+        /* H1 */
+
+        font-family: 'Roboto Condensed';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 45px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .brath-container-sm {
+        position: absolute;
+        height: 1400px;
+        width: 414px;
+        background: #000000;
+        top: 391px;
+        left: 0px;
+
+    }
+
+    .lgImage {
+        position: absolute;
+        width: 336.36px;
+        height: 290px;
+        left: 32px;
+        top: 603px;
+    }
+
+    .smImage {
+        position: absolute;
+        width: 115px;
+        height: 73px;
+
+        top: 898px;
+    }
+
+    .sm1 {
+        left: 29px;
+    }
+
+    .sm2 {
+        left: 148px;
+    }
+
+    .sm3 {
+        left: 275px;
+    }
+}
+
+@media only screen and (min-width: 415px) {
+
+    .brath-content-sm,
+    .brath-container-sm,
+    .image2 {
+        display: none;
+    }
+
+
+}

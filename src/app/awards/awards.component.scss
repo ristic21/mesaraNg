@@ -1,0 +1,754 @@
+@media only screen and (min-width:415px) {
+    .container {
+        height: 1920px;
+        width: 1920px;
+        position: absolute;
+        left: -1px;
+        top: 4306px;
+        position: absolute;
+        background: #000000;
+    }
+
+    .logo {
+        position: absolute;
+        left: 430px;
+        top: 4476px;
+        background: #000000;
+    }
+
+    h2 {
+
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        /* or 131% */
+
+
+        color: #FFFFFF;
+    }
+
+    .naslov1 {
+        position: absolute;
+        width: 409px;
+        height: 92px;
+        left: 1076px;
+        top: 4488px;
+
+        /* H2 */
+    }
+
+    .button1 {
+        box-sizing: border-box;
+        position: absolute;
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+        left: 1076px;
+        top: 4628px;
+        height: 47px;
+        width: 174px;
+        color: #FFFFFF;
+        cursor: pointer;
+    }
+
+    .linija1 {
+        position: absolute;
+        left: 369px;
+        top: 4829px;
+
+        background: #535353;
+    }
+
+    .linija2 {
+        position: absolute;
+        left: 1039px;
+        top: 4829px;
+
+        background: #535353;
+    }
+
+    #logo2 {
+        position: absolute;
+        left: 929px;
+        top: 4810px;
+
+    }
+
+    #dottedLogo {
+        position: absolute;
+        border-radius: 100%;
+        left: 912px;
+        top: 4789px;
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+    }
+
+
+
+
+
+    //logo2
+
+
+
+
+    .linija1-2 {
+        position: absolute;
+        left: 369px;
+        top: 5391px;
+
+        background: #535353;
+    }
+
+    .linija2-2 {
+        position: absolute;
+        left: 1039px;
+        top: 5391px;
+
+        background: #535353;
+    }
+
+    .logo2-2 {
+        position: absolute;
+        left: 929px;
+        top: 5370px;
+
+    }
+
+    .dottedLogo2 {
+        position: absolute;
+        border-radius: 100%;
+        left: 912px;
+
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+        top: 5351px;
+    }
+
+
+
+
+
+
+
+
+    .naslov2 {
+        position: absolute;
+        width: 240px;
+        height: 42px;
+        left: 410px;
+        top: 5039px;
+    }
+
+    .awardP {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+
+        color: rgba(255, 255, 255, 0.51);
+
+    }
+
+    .award1 {
+        position: absolute;
+        width: 176px;
+        height: 48px;
+        left: 728px;
+        top: 5214px;
+    }
+
+    .award2 {
+        position: absolute;
+        width: 112px;
+        height: 48px;
+        left: 979px;
+        top: 5214px;
+    }
+
+    .award3 {
+        position: absolute;
+        width: 126px;
+        height: 48px;
+        left: 1166px;
+        top: 5214px;
+
+    }
+
+    .award4 {
+
+        position: absolute;
+        width: 106px;
+        height: 48px;
+        left: 1371px;
+        top: 5214px;
+
+
+    }
+
+    .nagrada1 {
+        position: absolute;
+        width: 118.98px;
+        height: 118.98px;
+        left: 757px;
+        top: 5081px;
+    }
+
+    .nagrada2 {
+        position: absolute;
+        width: 118.98px;
+        height: 118.98px;
+        left: 975px;
+        top: 5081px;
+    }
+
+    .nagrada3 {
+        position: absolute;
+        width: 118.98px;
+        height: 118.98px;
+        left: 1171px;
+        top: 5081px;
+    }
+
+    .nagrada4 {
+        position: absolute;
+        width: 118.98px;
+        height: 118.98px;
+        left: 1363px;
+        top: 5081px;
+    }
+
+    .highlightDiv {
+        box-sizing: border-box;
+        position: absolute;
+        left: 750px;
+        top: 5641px;
+        background: #FFFFFF;
+        opacity: 0.21;
+        border: 1px solid #000000;
+
+        height: 414px;
+        width: 429px;
+        border-radius: 0px;
+
+    }
+
+    .Empfehlungs {
+        position: absolute;
+        color: #FFFFFF;
+        opacity: 0.56;
+        top: 5451px;
+        left: 912px;
+    }
+
+    .emph2 {
+        position: absolute;
+        width: 468px;
+        height: 85px;
+        left: 760px;
+        top: 5498px;
+
+    }
+
+    .div1,
+    .div2 {
+        position: absolute;
+        left: 390px;
+        top: 5698px;
+        background: #ffffff;
+        opacity: 0.1;
+        height: 257px;
+        width: 317px;
+    }
+
+    .p1 {
+        position: absolute;
+        height: 73px;
+        width: 249px;
+        left: 428px;
+        top: 5738px;
+        border-radius: nullpx;
+    }
+
+    .p1Name {
+        position: absolute;
+        height: 73px;
+        width: 249px;
+        left: 428px;
+        top: 5898px;
+        border-radius: nullpx;
+    }
+
+    .grillKurs {
+        position: absolute;
+        top: 5676px;
+        left: 928px;
+    }
+
+    .p2 {
+        position: absolute;
+        height: 219px;
+        width: 342px;
+        left: 800px;
+        top: 5837px;
+        border-radius: nullpx;
+
+    }
+
+    .p2Name {
+        position: absolute;
+        height: 219px;
+        width: 342px;
+        left: 800px;
+        top: 5957px;
+        border-radius: nullpx;
+    }
+
+    .koch {
+        top: 5992px
+    }
+
+    .zvezdica1 {
+        position: absolute;
+        height: 80px;
+        width: 120px;
+        left: 908px;
+        top: 5763px;
+        border-radius: 0px;
+    }
+
+    .p3 {
+        position: absolute;
+        height: 219px;
+        width: 302px;
+        left: 1230px;
+        top: 5737px;
+        border-radius: nullpx;
+    }
+
+    .p3Name {
+        position: absolute;
+        height: 219px;
+        width: 302px;
+        left: 1230px;
+        top: 5837px;
+        border-radius: nullpx;
+    }
+
+    .button2 {
+        position: absolute;
+        height: 47px;
+        width: 174px;
+        left: 885px;
+        top: 6137px;
+        border-radius: 40px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        background: #A62120;
+        color: #FFFFFF;
+        border-color: #FFFFFF;
+        cursor: pointer;
+    }
+
+    .navodnik1 {
+        position: absolute;
+        height: 36.406005859375px;
+        width: 21.07904052734375px;
+        left: 1110px;
+        top: 6037px;
+
+    }
+
+    .navodnik2 {
+        position: absolute;
+        height: 36.406005859375px;
+        width: 21.07904052734375px;
+        left: 1135px;
+        top: 6037px;
+
+    }
+
+    .left {
+        position: absolute;
+        left: 710px;
+        top: 5837px;
+        font-family: 'Linearicons-Free';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 33px;
+        /* identical to box height */
+        cursor: pointer;
+
+        color: #FFFFFF;
+    }
+
+    .right {
+        position: absolute;
+        left: 1188px;
+        top: 5837px;
+        font-family: 'Linearicons-Free';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 33px;
+        /* identical to box height */
+        cursor: pointer;
+
+        color: #FFFFFF;
+    }
+}
+
+@media only screen and (max-width:414px) {
+    .container {
+        height: 2210px;
+        width: 416px;
+        position: absolute;
+        left: -1px;
+        top: 4956px;
+        position: absolute;
+        background: #000000;
+    }
+
+    .logo {
+        position: absolute;
+        left: 15px;
+        top: 4976px;
+        background: #000000;
+    }
+
+    h2 {
+
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+
+
+        color: #FFFFFF;
+    }
+
+    .naslov1 {
+        position: absolute;
+        width: 383px;
+        height: 126px;
+        left: 12px;
+        top: 5236px;
+        text-align: center;
+        /* H2 */
+    }
+
+    .button1 {
+        box-sizing: border-box;
+
+        position: absolute;
+        height: 47px;
+        width: 174px;
+
+        border-radius: 40px;
+
+        top: 5436px;
+        left: 120px;
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        color: #FFFFFF;
+    }
+
+    //logo
+
+    .linija1 {
+        position: absolute;
+        left: 15px;
+        top: 5629px;
+        height: 0.5px;
+        width: 134px;
+
+
+        background: #535353;
+    }
+
+    .linija2 {
+        position: absolute;
+        left: 270px;
+        top: 5629px;
+        height: 0.5px;
+        width: 134px;
+        background: #535353;
+    }
+
+    #logo2 {
+        position: absolute;
+        left: 184px;
+        top: 5600px;
+
+    }
+
+    #dottedLogo {
+        position: absolute;
+        border-radius: 100%;
+        left: 166px;
+        top: 5582px;
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+    }
+
+    .naslov2 {
+        position: absolute;
+        width: 240px;
+        height: 42px;
+        left: 90px;
+        top: 5734px;
+
+    }
+
+
+
+    //award
+
+
+
+    .awardP {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 15px;
+        text-align: center;
+
+        color: rgba(255, 255, 255, 0.51);
+
+    }
+
+    .award1 {
+        position: absolute;
+        left: 20px;
+        height: 45px;
+        width: 141px;
+        top: 5948px;
+        border-radius: nullpx;
+
+
+
+
+    }
+
+    .award2 {
+        position: absolute;
+        left: 240px;
+        height: 45px;
+        width: 141px;
+        top: 5948px;
+        border-radius: nullpx;
+
+    }
+
+    .award3 {
+        position: absolute;
+        left: 15px;
+        height: 45px;
+        width: 141px;
+        top: 6148px;
+        border-radius: nullpx;
+    }
+
+    .award4 {
+        position: absolute;
+        left: 240px;
+        height: 45px;
+        width: 141px;
+        top: 6148px;
+        border-radius: nullpx;
+
+
+    }
+
+    .nagrada1 {
+        position: absolute;
+        left: 40px;
+        height: 111px;
+        width: 111px;
+        top: 5848px;
+    }
+
+    .nagrada2 {
+        position: absolute;
+        left: 260px;
+        height: 111px;
+        width: 111px;
+        top: 5848px;
+    }
+
+    .nagrada3 {
+        position: absolute;
+        left: 40px;
+        height: 111px;
+        width: 111px;
+        top: 6045px;
+    }
+
+    .nagrada4 {
+        position: absolute;
+        left: 260px;
+        height: 111px;
+        width: 111px;
+        top: 6045px;
+    }
+
+
+
+
+
+    //logo2
+
+
+
+    .linija1-2 {
+        position: absolute;
+        left: 15px;
+        top: 6289px;
+        height: 0.5px;
+        width: 134px;
+
+
+        background: #535353;
+    }
+
+    .linija2-2 {
+        position: absolute;
+        left: 270px;
+        top: 6289px;
+        height: 0.5px;
+        width: 134px;
+        background: #535353;
+    }
+
+    .logo2-2 {
+        position: absolute;
+        left: 184px;
+        top: 6270px;
+
+    }
+
+    .dottedLogo2 {
+        position: absolute;
+        border-radius: 100%;
+        left: 166px;
+        top: 6252px;
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+    }
+
+    .Empfehlungs {
+        position: absolute;
+        top: 6372px;
+        left: 164px;
+    }
+
+    .highlightDiv {
+        box-sizing: border-box;
+        position: absolute;
+        left: 20px;
+        top: 6504px;
+        background: #FFFFFF;
+        opacity: 0.21;
+        border: 1px solid #000000;
+
+        height: 414px;
+        width: 367px;
+        border-radius: 0px;
+
+    }
+
+    .p2 {
+        position: absolute;
+        height: 219px;
+        width: 342px;
+        left: 27px;
+        top: 6688px;
+        border-radius: nullpx;
+    }
+
+    .p2Name {
+        position: absolute;
+        top: 6845px;
+        left: 150px
+    }
+
+    .grillKurs {
+        position: absolute;
+        top: 6526px;
+        left: 170px;
+    }
+
+    .koch {
+        position: absolute;
+        top: 6872px;
+        left: 180px
+    }
+
+    .zvezdica1 {
+        position: absolute;
+        height: 80px;
+        width: 120px;
+        left: 149px;
+        top: 6603px;
+        border-radius: 0px;
+    }
+
+    .left {
+        position: absolute;
+        top: 6932px;
+        left: 80px;
+        font-family: 'Linearicons-Free';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 70px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .right {
+        position: absolute;
+        top: 6932px;
+        left: 260px;
+        font-family: 'Linearicons-Free';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 70px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .button2 {
+        position: absolute;
+        height: 47px;
+        width: 174px;
+        left: 110px;
+        top: 7040px;
+        border-radius: 40px;
+        background: linear-gradient(0deg, #A62120, #A62120),
+            linear-gradient(0deg, #FFFFFF, #FFFFFF);
+        color: #FFFFFF;
+
+    }
+}

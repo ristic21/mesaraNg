@@ -1,0 +1,314 @@
+@media only screen and(min-width:415px) {
+    .container {
+        position: absolute;
+        width: 1938px;
+        height: 938px;
+        left: -18px;
+        top: 2123px;
+        background: #181818;
+    }
+
+    h2 {
+        position: absolute;
+        width: 208px;
+        height: 26px;
+        left: 856px;
+        top: 2226px;
+
+        /* H2 centered */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 26px;
+        /* identical to box height, or 81% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .podnaslov {
+
+        position: absolute;
+        width: 421px;
+        height: 26px;
+        left: 750px;
+        top: 2268px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        /* identical to box height */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+    }
+
+    .info {
+        position: absolute;
+        width: 652px;
+        height: 333px;
+        left: 634px;
+        top: 2349px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    button {
+        /* Rectangle 67 */
+
+        cursor: pointer;
+        box-sizing: border-box;
+        height: 47px;
+        width: 174px;
+        border-radius: 40px;
+        position: absolute;
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        left: 869px;
+        top: 2529px;
+        color: white;
+    }
+
+    .linija1 {
+        position: absolute;
+        left: 369px;
+        top: 2689px;
+
+        background: #535353;
+    }
+
+    .linija2 {
+        position: absolute;
+        left: 1039px;
+        top: 2689px;
+
+        background: #535353;
+    }
+
+    .logo {
+        position: absolute;
+        left: 929px;
+        top: 2659px;
+
+    }
+
+    .dottedLogo {
+        position: absolute;
+        border-radius: 100%;
+        left: 912px;
+        top: 2639px;
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+    }
+
+    .img1 {
+        position: absolute;
+        width: 262px;
+        height: 243px;
+        left: 430px;
+        top: 2743px;
+    }
+
+    .img2 {
+        position: absolute;
+        width: 262px;
+        height: 243px;
+        left: 708px;
+        top: 2743px;
+
+    }
+
+    .img3 {
+        position: absolute;
+        width: 263px;
+        height: 243px;
+        left: 986px;
+        top: 2743px;
+    }
+
+    .img4 {
+        position: absolute;
+        width: 262px;
+        height: 243px;
+        left: 1265px;
+        top: 2743px;
+
+    }
+
+}
+
+@media only screen and (max-width:414px) {
+    .container {
+        position: absolute;
+        width: 414px;
+        height: 1188px;
+        left: 0px;
+        top: 2374px;
+        background: #181818;
+    }
+
+    h2 {
+        position: absolute;
+        width: 208px;
+        height: 26px;
+        left: 106px;
+        top: 2436px;
+
+        /* H2 centered */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 26px;
+        /* identical to box height, or 81% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .podnaslov {
+        /* alles über unsere Hausgemachte Produkte */
+
+
+        position: absolute;
+        width: 313px;
+        height: 52px;
+        left: 54px;
+        top: 2478px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .info {
+        position: absolute;
+        width: 364px;
+        height: 333px;
+        left: 26px;
+        top: 2585px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    button {
+        position: absolute;
+        height: 47px;
+        width: 174px;
+        left: 125px;
+        top: 2850px;
+        border-radius: 40px;
+        color: #FFFFFF;
+
+        background: #A62120;
+        border: 1px solid #FFFFFF;
+        border-radius: 40px;
+    }
+
+    .linija1 {
+        position: absolute;
+        top: 2990px;
+        width: 126.8px;
+        background: #535353;
+        left: 35px;
+    }
+
+    .linija2 {
+        position: absolute;
+        top: 2990px;
+        width: 126.8px;
+        background: #535353;
+        left: 245px;
+    }
+
+
+    .logo {
+        position: absolute;
+        left: 179px;
+        top: 2979px;
+
+    }
+
+    .dottedLogo {
+        position: absolute;
+        border-radius: 100%;
+        left: 162px;
+        top: 2959px;
+        border: dotted 2px;
+        border-color: white;
+        width: 80px;
+        height: 80px;
+    }
+
+    .img1 {
+        position: absolute;
+        width: 187px;
+        height: 173px;
+        left: 16px;
+        top: 3093px;
+    }
+
+    .img2 {
+        position: absolute;
+        width: 187px;
+        height: 173px;
+        left: 216px;
+        top: 3093px;
+    }
+
+    .img3 {
+        position: absolute;
+        width: 187px;
+        height: 173px;
+        left: 16px;
+        top: 3273px;
+    }
+
+    .img4 {
+        position: absolute;
+        width: 187px;
+        height: 173px;
+        left: 216px;
+        top: 3273px;
+
+    }
+
+}

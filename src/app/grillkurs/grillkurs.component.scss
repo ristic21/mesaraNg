@@ -1,0 +1,143 @@
+@media only screen and (min-width:415px) {
+    .container {
+        position: absolute;
+        width: 960px;
+        height: 642px;
+        left: 0px;
+        top: 1481px;
+
+        background: #A62120;
+    }
+
+    h2 {
+        position: absolute;
+        width: 231px;
+        height: 92px;
+        left: 418px;
+        top: 1643px;
+        /* H2 */
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        /* or 131% */
+        color: #FFFFFF;
+    }
+
+    ul {
+        position: absolute;
+        width: 291px;
+        height: 125px;
+        left: 427px;
+        top: 1764px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+
+        color: #FFFFFF;
+    }
+
+    img {
+        position: absolute;
+        width: 960px;
+        height: 642px;
+        left: 960px;
+        top: 1481px;
+    }
+
+    button {
+        position: absolute;
+        left: 427px;
+        top: 1900px;
+        height: 47px;
+        width: 174px;
+        border-radius: 40px;
+        border-color: #FF0000;
+        background: #FFFFFF;
+    }
+}
+
+@media only screen and (max-width:414px) {
+    .container {
+        position: absolute;
+        width: 417px;
+        height: 556px;
+        left: -3px;
+        top: 1528px;
+
+        background: #A62120;
+    }
+
+    ul {
+        position: absolute;
+        width: 346.87px;
+        height: 149px;
+        left: 37px;
+        top: 1721px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    img {
+        position: absolute;
+        width: 423.42px;
+        height: 290px;
+        left: -9px;
+        top: 2084px;
+    }
+
+    h2 {
+        position: absolute;
+        width: 231px;
+        height: 92px;
+        left: 90px;
+        top: 1603px;
+
+        /* H2 */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        /* or 131% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    button {
+        position: absolute;
+        top: 1921px;
+        height: 47px;
+        width: 174px;
+        left: 120px;
+        border-radius: 40px;
+        background: #FFFFFF;
+
+
+        border:
+            #FF0000;
+    }
+
+}

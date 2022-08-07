@@ -1,0 +1,161 @@
+@media only screen and (min-width:415px) {
+    img {
+        position: absolute;
+        width: 960px;
+        height: 705px;
+        left: -2px;
+        top: 3061px;
+    }
+
+    .container {
+        position: absolute;
+        width: 960px;
+        height: 705px;
+        left: 958px;
+        top: 3061px;
+        background: #A62120;
+    }
+
+    h2 {
+        position: absolute;
+        width: 432px;
+        height: 42px;
+        left: 1082px;
+        top: 3223px;
+
+
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        /* identical to box height, or 131% */
+
+
+        color: #FFFFFF;
+    }
+
+    .podnaslov {
+        position: absolute;
+        width: 402px;
+        height: 42px;
+        left: 1082px;
+        top: 3288px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 550;
+        font-size: 20px;
+        line-height: 20px;
+        /* or 91% */
+
+
+        color: #FFFFFF;
+    }
+
+    .info {
+        position: absolute;
+        width: 431px;
+        height: 219px;
+        left: 1082px;
+        top: 3348px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+
+        color: #FFFFFF;
+
+    }
+}
+
+@media only screen and (max-width:414px) {
+    img {
+        position: absolute;
+        width: 419px;
+        height: 320px;
+        left: -5px;
+        top: 4117px;
+
+    }
+
+    .container {
+        position: absolute;
+        width: 414px;
+        height: 556px;
+        left: 0px;
+        top: 3561px;
+
+        background: #A62120;
+    }
+
+    h2 {
+        position: absolute;
+        width: 276px;
+        height: 84px;
+        left: 71px;
+        top: 3628px;
+
+        /* H2 */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 42px;
+        /* or 131% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+    }
+
+    .podnaslov {
+        position: absolute;
+        width: 302px;
+        height: 42px;
+        left: 59px;
+        top: 3732px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 30px;
+        /* or 136% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .info {
+        position: absolute;
+        width: 368px;
+        height: 255px;
+        left: 23px;
+        top: 3862px;
+
+        /* body */
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /* or 150% */
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+    }
+}
