@@ -102,8 +102,8 @@ header {
         position: absolute;
         height: 3px;
         width: 28px;
-        left: 355px;
-        top: 41px;
+        left: 335px;
+        top: 21px;
         border-radius: 20px;
         background: #FFFFFF;
     }
@@ -112,8 +112,8 @@ header {
         position: absolute;
         height: 4px;
         width: 28px;
-        left: 355px;
-        top: 52px;
+        left: 335px;
+        top: 30px;
         border-radius: 20px;
         background: #FFFFFF;
     }
@@ -122,8 +122,8 @@ header {
         position: absolute;
         height: 3px;
         width: 28px;
-        left: 355px;
-        top: 64px;
+        left: 335px;
+        top: 40px;
         border-radius: 20px;
         background: #FFFFFF;
 
@@ -145,11 +145,30 @@ header {
         left: 240px;
         top: 43px;
         background: #B50014;
+
+
+    }
+
+    .menuPosition {
+        position: absolute;
+        z-index: 100;
+        margin-left: 190px;
+        margin-top: 38px;
+        background-color: #b5001577;
+        border-color: #252525;
+    }
+
+    .dropdown-item {
+        color: #FFFFFF;
     }
 }
 
 @media only screen and (min-width: 415px) {
     .hamburger {
+        display: none;
+    }
+
+    .dropdown {
         display: none;
     }
 
