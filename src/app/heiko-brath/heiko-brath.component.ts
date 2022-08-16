@@ -10,9 +10,15 @@ export class HeikoBrathComponent implements OnInit {
   image2: any = "../assets/images/image 14.jpg"
   lgImage: any = "../assets/images/287e4a29fb95622355c7023ec0f765ff@2x 1.svg"
   smImage: any = "../assets/images/287e4a29fb95622355c7023ec0f765ff@2x 2.svg"
-  constructor() { }
+  brathcontent: string
+  constructor() {
+    this.brathcontent = "Deutsches Ipsum Dolor deserunt dissentias Grimms Märchen et. Tollit argumentum ius an. Pfannkuchen lobortis elaboraret per ne, nam Aperol Spritz probatus pertinax."
+  }
 
   ngOnInit(): void {
   }
 
 }
+
+
+
