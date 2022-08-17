@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -13,6 +13,7 @@ import { SpicesComponent } from './spices/spices.component';
 import { FleischversandComponent } from './fleischversand/fleischversand.component';
 import { AwardsComponent } from './awards/awards.component';
 import { FooterComponent } from './footer/footer.component';
+import { ServiceService } from './service.service';
 
 @NgModule({
   declarations: [
@@ -30,9 +31,10 @@ import { FooterComponent } from './footer/footer.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [ServiceService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
